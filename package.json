@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/aj@thinkers.shop.lwc-kxnlcpwp",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve 8y6hYOw5bVZvAyOQhHbi --open"
+  }
+}
